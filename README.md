@@ -8,7 +8,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 2. apache
 3. mysql
 4. composer ( download from https)
-5. nodejs
 
 # Installation
 
