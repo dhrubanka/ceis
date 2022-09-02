@@ -1,7 +1,7 @@
 
 ## About Ceis
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Covid Emergency Information System is a web app developed as a part of Sofware Engineering paper for the MCA degree. It is a portal intented to provide information about emergency items during covid period.
 
 # System requirements
 1. php 7.3 or up
